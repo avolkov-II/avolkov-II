@@ -1,6 +1,6 @@
 # ⚡ Alexei Volkov
 
-**`Software Engineer (CloudPeak Technologies)`**
+**`Senior Software Engineer (DataSphere Inc.)`**
 
 Senior C++ and Rust developer specializing in low-latency trading systems. I build high-performance order matching engines and market data feeds, leveraging lock-free data structures and kernel bypass techniques. Passionate about pushing hardware and software to their limits.
 
@@ -15,11 +15,13 @@ Senior C++ and Rust developer specializing in low-latency trading systems. I bui
 
 ## 👨‍💻 About Me
 - 📍 London, UK
-- ⚙️ Experience: 4 years in low-latency systems
+- ⚙️ Experience: 6 years in low-latency systems
 
 ---
 
 ## 💼 Career History
+- **2022 — Present**: Senior Software Engineer at DataSphere Inc.
+  *Designed and implemented a real-time data processing pipeline handling 1M+ events per second.*
 - **2020 — Present**: Software Engineer at CloudPeak Technologies
   *Led the migration of legacy monolithic services to microservices architecture, improving system scalability.*
 - **2018 — Present**: Junior Software Engineer at NexGen Solutions
@@ -37,4 +39,7 @@ A lock-free multi-producer multi-consumer queue in C++ for low-latency inter-thr
 A high-performance limit order book and matching engine in Rust, supporting price-time priority.
 - **Stack:** Rust 2018 edition, Tokio 0.2, Crossbeam 0.8
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avolkov-II&show_icons=true&theme=dark)
 
