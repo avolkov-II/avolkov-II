@@ -10,6 +10,8 @@ Senior C++ and Rust developer specializing in low-latency trading systems. I bui
 [![Rust 2018 edition](https://img.shields.io/badge/Rust%202018%20edition-blue?style=flat-square)](#)
 [![Tokio 0.2](https://img.shields.io/badge/Tokio%200.2-blue?style=flat-square)](#)
 [![Crossbeam 0.8](https://img.shields.io/badge/Crossbeam%200.8-blue?style=flat-square)](#)
+[![DPDK 21.11](https://img.shields.io/badge/DPDK%2021.11-blue?style=flat-square)](#)
+[![Rust 2021 edition](https://img.shields.io/badge/Rust%202021%20edition-blue?style=flat-square)](#)
 
 ---
 
@@ -38,6 +40,10 @@ A lock-free multi-producer multi-consumer queue in C++ for low-latency inter-thr
 ### [order-matching-engine](https://github.com/avolkov-II/order-matching-engine)
 A high-performance limit order book and matching engine in Rust, supporting price-time priority.
 - **Stack:** Rust 2018 edition, Tokio 0.2, Crossbeam 0.8
+
+### [market-data-feed](https://github.com/avolkov-II/market-data-feed)
+A kernel-bypass market data feed handler using DPDK, providing ultra-low-latency UDP multicast parsing.
+- **Stack:** C++20, DPDK 21.11, Rust 2021 edition
 
 ## 📊 GitHub Stats
 
