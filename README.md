@@ -1,6 +1,6 @@
 # ⚡ Alexei Volkov
 
-**`Senior Software Engineer (DataSphere Inc.)`**
+**`Staff Software Engineer (Quantum Dynamics)`**
 
 Senior C++ and Rust developer specializing in low-latency trading systems. I build high-performance order matching engines and market data feeds, leveraging lock-free data structures and kernel bypass techniques. Passionate about pushing hardware and software to their limits.
 
@@ -17,11 +17,13 @@ Senior C++ and Rust developer specializing in low-latency trading systems. I bui
 
 ## 👨‍💻 About Me
 - 📍 London, UK
-- ⚙️ Experience: 6 years in low-latency systems
+- ⚙️ Experience: 8 years in low-latency systems
 
 ---
 
 ## 💼 Career History
+- **2024 — Present**: Staff Software Engineer at Quantum Dynamics
+  *Established engineering best practices and mentored a team of 10 engineers, increasing code review efficiency by 30%.*
 - **2022 — Present**: Senior Software Engineer at DataSphere Inc.
   *Designed and implemented a real-time data processing pipeline handling 1M+ events per second.*
 - **2020 — Present**: Software Engineer at CloudPeak Technologies
