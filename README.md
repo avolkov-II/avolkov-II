@@ -12,6 +12,8 @@ Senior C++ and Rust developer specializing in low-latency trading systems. I bui
 [![Crossbeam 0.8](https://img.shields.io/badge/Crossbeam%200.8-blue?style=flat-square)](#)
 [![DPDK 21.11](https://img.shields.io/badge/DPDK%2021.11-blue?style=flat-square)](#)
 [![Rust 2021 edition](https://img.shields.io/badge/Rust%202021%20edition-blue?style=flat-square)](#)
+[![eBPF](https://img.shields.io/badge/eBPF-blue?style=flat-square)](#)
+[![libbpf 1.0](https://img.shields.io/badge/libbpf%201.0-blue?style=flat-square)](#)
 
 ---
 
@@ -46,6 +48,10 @@ A high-performance limit order book and matching engine in Rust, supporting pric
 ### [market-data-feed](https://github.com/avolkov-II/market-data-feed)
 A kernel-bypass market data feed handler using DPDK, providing ultra-low-latency UDP multicast parsing.
 - **Stack:** C++20, DPDK 21.11, Rust 2021 edition
+
+### [latency-profiler](https://github.com/avolkov-II/latency-profiler)
+A tool for measuring and visualizing end-to-end latency in distributed trading systems using eBPF and flame graphs.
+- **Stack:** Rust 2021 edition, eBPF, libbpf 1.0, C++20
 
 ## 📊 GitHub Stats
 
