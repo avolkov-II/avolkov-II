@@ -1,6 +1,6 @@
 # ⚡ Alexei Volkov
 
-**`Staff Software Engineer (Quantum Dynamics)`**
+**`Principal Engineer (Aether Innovations)`**
 
 Senior C++ and Rust developer specializing in low-latency trading systems. I build high-performance order matching engines and market data feeds, leveraging lock-free data structures and kernel bypass techniques. Passionate about pushing hardware and software to their limits.
 
@@ -19,11 +19,13 @@ Senior C++ and Rust developer specializing in low-latency trading systems. I bui
 
 ## 👨‍💻 About Me
 - 📍 London, UK
-- ⚙️ Experience: 8 years in low-latency systems
+- ⚙️ Experience: 10 years in low-latency systems
 
 ---
 
 ## 💼 Career History
+- **2026 — Present**: Principal Engineer at Aether Innovations
+  *Architected a distributed system for AI-driven analytics, reducing latency by 40% across global regions.*
 - **2024 — Present**: Staff Software Engineer at Quantum Dynamics
   *Established engineering best practices and mentored a team of 10 engineers, increasing code review efficiency by 30%.*
 - **2022 — Present**: Senior Software Engineer at DataSphere Inc.
